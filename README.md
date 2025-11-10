@@ -1,0 +1,2 @@
+# HyprLand
+Custom HyprLand config
